@@ -20,9 +20,10 @@ using namespace ScioSense;
 
 APC1 apc1;
  
-const char* ssid = "Andromeda";
-const char* password =  "Plejaden";
+const char* ssid = "*******";
+const char* password =  "*******";
  
+// adapt the IP address to your network
 IPAddress local_IP(192, 168, 178, 141);
 // Set your Gateway IP address
 IPAddress gateway(192, 168, 178, 1);
