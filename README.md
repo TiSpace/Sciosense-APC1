@@ -5,5 +5,5 @@ The examples contain<br>
 - providing data to be stored in Prometheus (see details [here](https://github.com/highonvoltageen/Sciosense-APC1-ESP32/tree/main))
  <br><br>
 ![APC1](./pic/Close-up-APC1-in-hand.jpg)<br><br>
-Find more details on [ScioSense Website](https://www.sciosense.com) and under the [product description] (https://www.sciosense.com/apc1-air-quality-combo-sensor/)
+Find more details on [ScioSense Website](https://www.sciosense.com) and under the [product description](https://www.sciosense.com/apc1-air-quality-combo-sensor/)
 
