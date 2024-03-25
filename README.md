@@ -2,6 +2,7 @@
 Basic routines for driving Sciosense APC1 on UART and I2C<br>
 The examples contain<br>
 - simple reading via UART
+- simple reading via I²C (optional sleep mode)
 - providing data to be stored in Prometheus (see details [here](https://github.com/highonvoltageen/Sciosense-APC1-ESP32/tree/main))
  <br><br>
 ![APC1](./pic/Close-up-APC1-in-hand.jpg)<br><br>
