@@ -33,7 +33,7 @@ void setup() {
   while (!Serial) {};  //wait until serial monitor is ready
   Serial.print("\n\n");
 
-  Wire.pins(0, 2);  //make sure the I²C pinout fits to your board  -> for ESP-01 special connection
+ // Wire.pins(0, 2);  //make sure the I²C pinout fits to your board  -> for ESP-01 special connection
 
 
   apc1.begin();
